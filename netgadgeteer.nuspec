@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>net.gadgeteer</id>
+    <version>0.0.2</version>
+    <title>.net Gadgeteer</title>
+    <authors>MS Open Tech</authors>
+    <owners>Christopher MANEU</owners>
+    <licenseUrl>https://gadgeteer.codeplex.com/license</licenseUrl>
+    <projectUrl>https://gadgeteer.codeplex.com</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Microsoft .NET Gadgeteer is an open-source toolkit for building small electronic devices using the .NET Micro Framework and Visual Studio or Visual Studio Express. .NET Gadgeteer combines the advantages of object-oriented programming, solderless assembly of electronics with a kit of peripherals, and support for quick form-factor construction using computer-aided design. This powerful combination allows embedded and handheld devices to be iteratively designed, built and programmed in a matter of hours rather than days or weeks. 
+
+Note: This package is *not* packaged by MS Open Tech. If you're from them, please contact me to transfer you the ownership of this package !
+</description>
+    <summary>.Net gadgeteer</summary>
+    <tags>iot microframework gadgeteer net</tags>
+  </metadata>
+</package>
